@@ -20,3 +20,9 @@ title
 {
     color: paleturquoise;
 }
+.mask1 {
+    -webkit-mask-image: url(confia.jpeg);
+    mask-image: url(confia.jpeg);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;    
+  }
